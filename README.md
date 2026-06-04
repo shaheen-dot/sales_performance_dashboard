@@ -116,9 +116,3 @@ The dashboard follows a storytelling approach:
 This project demonstrates how Power BI can be used to convert raw business data into actionable insights through effective visualization and storytelling. The dashboard helps stakeholders understand business performance, identify growth opportunities, and support strategic decision-making.
 
 ---
-
-## Author
-
-Shaheen
-
-Power BI | Data Analytics | Business Intelligence
